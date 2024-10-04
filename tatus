@@ -1,0 +1,53 @@
+[33mcommit 7209cacddb619d718da2ace1e39947af10095646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Thu Oct 3 17:42:01 2024 -0500
+
+    Navbar
+
+[33mcommit 0c8bba3bacf5b4f19c12274a2ec009d451945f50[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Fri Sep 27 19:42:35 2024 -0500
+
+    Open/Close Cart
+
+[33mcommit 33d0fabb41067d7bf093d09c7b472b5126912829[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Fri Sep 27 18:04:12 2024 -0500
+
+    Guardar los items del carrito en el sessionStorage
+
+[33mcommit 2734a8608d89b1f540c96b4de9fa6e75eca45cdf[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Sat Sep 21 13:47:37 2024 -0500
+
+    Actualizar la cantidad del producto
+
+[33mcommit 47c5a78ff623bc68b823ca9d0dc608955338b854[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Sat Sep 21 12:28:22 2024 -0500
+
+    Dividiendo en subcomponentes
+
+[33mcommit c3eb76a92cc57ae84886c76ea16b3a7abe98426a[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Thu Sep 19 12:13:51 2024 -0500
+
+    Maquetando productos view HTML
+
+[33mcommit c22f8bbfb93bec8a2b7b07dda36f02ecbea5a6f1[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Thu Sep 19 12:05:26 2024 -0500
+
+    Data de los productos y Service
+
+[33mcommit 1ab43495f50c8be3e264cee4bd2e9804e927edd1[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Thu Sep 19 12:02:07 2024 -0500
+
+    Data de los productos y Service
+
+[33mcommit 2dd19b2ee19c0dc05e6c7d309d65842cda064dd2[m
+Author: prueba2@gmail.com <prueba@gmail.com>
+Date:   Thu Sep 19 11:26:48 2024 -0500
+
+    initial commit
