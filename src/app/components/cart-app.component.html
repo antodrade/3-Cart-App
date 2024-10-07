@@ -3,7 +3,8 @@
 <h2>Catalogo de productos App!</h2>
 <catalog [products] = "products" (productEventEmitter)="onAddCart($event)"/>
 @if (showCart){
-<cart-modal [items]="items" [total]="total"  (idProductEventEmitter)="onDeleteCart($event)"
+<cart-modal [items]="items" 
+ (idProductEventEmitter)="onDeleteCart($event)"
 (closeEventEmmiter)="openCloseCart()"/>
 }
   </div>
